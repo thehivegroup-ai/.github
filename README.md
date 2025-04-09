@@ -1,1 +1,3 @@
-# .github
+# The Hive Group
+
+COLLECTIVE INTELLIGENCE WITH PURPOSE
